@@ -24,3 +24,4 @@ int main()
     Bf.Reser2[0] = 0;
     Bf.Reser2[1] = 0;
     Bf.OffSetBits = 54; //Offset
+}
